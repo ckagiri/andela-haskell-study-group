@@ -1,6 +1,6 @@
-# Pure Functional Programming
+# Haskell Study Group
 
-## Haskell Study Group
+## Pure Functional Programming
 
 We will work through [_Haskell Programming from First Principles_](http://haskellbook.com/) (aka the "Haskell Book") by Christopher Allen and Julie Moronuki. The only prerequisites for participating are this book, a computer, and your person. An open mind is also recommended. No prior experience with Haskell, functional programming, or coding in general is required.
 
@@ -20,16 +20,16 @@ You don't need to do much more than create a directory for your code and make su
 
 ### Expectations
 
-Participants in the study group will be expected to model and reinforce a culture of accountability. This entails everyone abiding by the norms of a supportive and rigorous classroom environment. Each week, you should try as much as possible the following tasks:
+Participants in the study group will be expected to model and reinforce a culture of accountability. This entails everyone abiding by the norms of a supportive and rigorous classroom environment. Each week, you should try as much as possible the following:
 
-- Do all the reading.
-- Type in all the code.
-- Attempt all the exercises.
+- Doing all the reading.
+- Typing in all the code.
+- Attempting all the exercises.
 
-These expectations are not meant to make your life miserable but to provide a framework for your success. If you actually want to learn Haskell, consistency is the key—as with anything else. Since we'll be learning Haskell together in this group, it is essential that you work through each chapter on your own first so that you come to each group meeting prepared, knowing what you need help with and what you understand well enough to teach others. If you get stuck on a problem, keep moving, but do not just skip the exercises entirely.
+These expectations are not meant to make your life miserable but to provide a framework for your success. If you actually want to learn Haskell, consistency is the key—as with anything else. Since we'll be learning Haskell together in this group, it is essential that you work through each chapter on your own first so that you know what you need help with and what you understand well enough to teach others. If you get stuck on a problem, keep moving, but do not just skip the exercises entirely.
 #### For the sake of emphasis: _do not skip the exercises!_
 
-If you are a complete beginner to programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Ask in the study group, channel and we'll help you figure it out. Fortunately, you don't even need a computer to work through Chapter 1—just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
+If you are a complete beginner to programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Ask in the study group channel and we'll help you figure it out. Fortunately, you don't even need a computer to work through Chapter 1—just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
 
 ### Conduct of code
 
@@ -43,16 +43,16 @@ The [Recurse Center](https://www.recurse.com) has a useful set of [social rules]
 
 ### Format
 
-We will work through all the of the Haskell Book over the course of 20 weeks.
+We will work through all the of the Haskell Book over the course of 20 weeks. Each set of 4 weeks will teach you something fundamental.
 
 **This is not a class**, however, so do not come expecting a lecture. Instead, you will have the opportunity to review your work and to discuss concepts and exercises that gave you difficulty when working through the book on your own.
 
-You are encouraged to hew as closely to this regular, weekly schedule as you are able so as to maintain your momentum. That said, if life gets in the way, so be it: but do your best to catch up, and avoid skipping any material as each chapter builds on the last. We can always discuss exercises on Slack, but please refrain from posting your solutions publicly (including on GitHub).
+You are encouraged to adhere as closely to this regular, weekly schedule as you are able so as to maintain your momentum. That said, if life gets in the way, so be it: but do your best to catch up, and avoid skipping any material as each chapter builds on the last. We can always discuss exercises on Slack.
 
 
 ### Slides and other resources
 
-See the [resources](https://github.com/andela-haskell-study-group/tree/master/haskell-study-group/resources) sub-directory in this repo for presentation slides, bonus exercises, and other materials used during study weeks.
+See the [resources](https://github.com/ckagiri/andela-haskell-study-group/tree/master/resources) sub-directory in this repo for presentation slides, bonus exercises, and other materials used during study weeks.
 
 ### Schedule
 **(Week 1..4)**
