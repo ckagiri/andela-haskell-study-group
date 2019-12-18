@@ -52,7 +52,7 @@ You are encouraged to adhere as closely to this regular, weekly schedule as you 
 
 ### Slides and other resources
 
-See the [resources](https://github.com/ckagiri/andela-haskell-study-group/tree/master/resources) sub-directory in this repo for presentation slides, bonus exercises, and other materials used during study weeks.
+See the [resources](https://github.com/ckagiri/andela-haskell-study-group/tree/master/resources) sub-directory in this repo for materials used during study weeks.
 
 ### Schedule
 **(Week 1..4)**
@@ -109,7 +109,7 @@ See the [resources](https://github.com/ckagiri/andela-haskell-study-group/tree/m
 * Chapter 22 & 23
 
 **Week 15. Parser combinators**
-- Chapter 24. Up until “24.8 Character and token parsers”
+- Chapter 24. Up until `24.8 Character and token parsers`
 - Chapter 24. “24.8 Character and token parsers” and further
 - Only do exercises 1-5
 - Do exercise 5 peer to peer
