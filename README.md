@@ -29,7 +29,7 @@ Participants in the study group will be expected to model and reinforce a cultur
 These expectations are not meant to make your life miserable but to provide a framework for your success. If you actually want to learn Haskell, consistency is the key—as with anything else. Since we'll be learning Haskell together in this group, it is essential that you work through each chapter on your own first so that you know what you need help with and what you understand well enough to teach others. If you get stuck on a problem, keep moving, but do not just skip the exercises entirely.
 #### For the sake of emphasis: _do not skip the exercises!_
 
-If you are a complete beginner to programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Ask in the study group channel and we'll help you figure it out. Fortunately, you don't even need a computer to work through Chapter 1—just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
+If you are a complete beginner to functional programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Ask in the study group channel and we'll help you figure it out. Fortunately, you don't even need a computer to work through Chapter 1—just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
 
 ### Conduct of code
 
@@ -109,10 +109,7 @@ See the [resources](https://github.com/ckagiri/andela-haskell-study-group/tree/m
 * Chapter 22 & 23
 
 **Week 15. Parser combinators**
-- Chapter 24. Up until `24.8 Character and token parsers`
-- Chapter 24. “24.8 Character and token parsers” and further
-- Only do exercises 1-5
-- Do exercise 5 peer to peer
+- Chapter 24.
 
 **Week 16. Composing types, Monad transformers**
 - Chapter 25
